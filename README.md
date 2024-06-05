@@ -1,20 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working in Baosight Intern
+- 🌱 I’m currently learning in NUS
+- 📫 How to reach me: wjh13386178220@163.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuhu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,14 +59,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-MATLAB                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
 
 
 

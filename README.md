@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuhu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -48,16 +48,16 @@ Sunday                   17 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dynamic-thread-pool      3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wuhu-wang/wuhu-wang/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:40:14 UTC
+ Last Updated on 17/06/2024 18:39:53 UTC
 <!--END_SECTION:waka-->

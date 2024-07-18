@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning in NUS
 - 📫 How to reach me: wjh13386178220@163.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuhu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2050%20mins-blue)

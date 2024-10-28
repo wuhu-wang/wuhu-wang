@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working in Baosight Intern
 - 🌱 I’m currently learning in NUS
 - 📫 How to reach me: wjh13386178220@163.com
 

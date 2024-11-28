@@ -5,13 +5,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +48,19 @@ Sunday                   23 commits          █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 8 mins         █████████████████████████   99.81 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Go                       2 hrs 19 mins       █████████████████████████   99.91 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-GoLand                   1 hr 8 mins         █████████████████████████   100.00 % 
+GoLand                   2 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HelloWorld               1 hr 8 mins         █████████████████████████   99.93 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+RPC                      1 hr 9 mins         █████████████░░░░░░░░░░░░   50.18 % 
+HelloWorld               1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.71 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +79,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wuhu-wang/wuhu-wang/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 18:48:30 UTC
+ Last Updated on 28/11/2024 18:47:08 UTC
 <!--END_SECTION:waka-->

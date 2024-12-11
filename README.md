@@ -48,16 +48,16 @@ Sunday                   23 commits          █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HelloWorld               3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wuhu-wang/wuhu-wang/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:49:23 UTC
+ Last Updated on 11/12/2024 18:49:21 UTC
 <!--END_SECTION:waka-->

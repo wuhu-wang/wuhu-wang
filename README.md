@@ -5,13 +5,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,16 +48,20 @@ Sunday                   23 commits          █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       14 mins             █████████████████████░░░░   85.48 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████░░░░   85.48 % 
+IntelliJ IDEA            2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HelloWorld               14 mins             █████████████████████░░░░   85.48 % 
+big-market               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +80,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wuhu-wang/wuhu-wang/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 18:44:26 UTC
+ Last Updated on 16/03/2025 18:45:43 UTC
 <!--END_SECTION:waka-->

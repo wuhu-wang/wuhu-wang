@@ -13,8 +13,6 @@
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -77,5 +75,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wuhu-wang/wuhu-wang/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 18:48:13 UTC
+ Last Updated on 28/08/2025 18:50:00 UTC
 <!--END_SECTION:waka-->
